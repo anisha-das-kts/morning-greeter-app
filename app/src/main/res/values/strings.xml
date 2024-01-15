@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MorningGreeterApp</string>
+    <string name="switch_title">Alarm</string>
+    <string name="summary">Turn this option to Enable or Disable</string>
+    <string name="settings">Settings</string>
+</resources>
